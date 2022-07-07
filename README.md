@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋, I'm Efimov Vladislav
+[![Gmail Badge](https://img.shields.io/badge/-notix@yandex.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:notix@yandex.com)](mailto:notix@yandex.com) 
+![Github Badge](https://img.shields.io/badge/-n0t1x-grey?style=flat&logo=github&logoColor=white&link=https://github.com/n0t1x/)
+## I'm a Python BackEnd Developer
+- 💪 I like to write code
+- 🎉 I love to paint and play the guitar
+- 🥅 I am constantly learning new things
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=n0t1x alt=n0t1x /> </p>
 
-<!--
-**n0t1x/n0t1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github stats](https://github-readme-stats.vercel.app/api?username=n0t1x&show_icons=true&include_all_commits=true)](https://github.com/n0t1x/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n0t1x&layout=compact)](https://github.com/n0t1x/github-readme-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
