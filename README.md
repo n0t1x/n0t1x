@@ -3,7 +3,7 @@
 ![Github Badge](https://img.shields.io/badge/-n0t1x-grey?style=flat&logo=github&logoColor=white&link=https://github.com/n0t1x/)
 ## I'm a Python BackEnd Developer
 - 💪 I like to write code
-- 🎉 I love to paint and play the guitar
+- 🎉 I love to ride a bike
 - 🥅 I am constantly learning new things
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=n0t1x alt=n0t1x /> </p>
