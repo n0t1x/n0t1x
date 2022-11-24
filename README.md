@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Efimov Vladislav
-[![Gmail Badge](https://img.shields.io/badge/-notix@yandex.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:notix@yandex.com)](mailto:notix@yandex.com) 
+[![Gmail Badge](https://img.shields.io/badge/-notix@yandex.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:notix1988@gmail.com)](mailto:notix1988@gmail.com) 
 ![Github Badge](https://img.shields.io/badge/-n0t1x-grey?style=flat&logo=github&logoColor=white&link=https://github.com/n0t1x/)
 ## I'm a Python BackEnd Developer
 - 💪 I like to write code
